@@ -1,0 +1,7 @@
+{
+  "recipes": [
+    { "id": 1, "name": "Lazania" },
+    { "id": 2, "name": "Pasta Karbonarra" },
+    { "id": 3, "name": "Pizza Margaritta" }
+  ]
+}
